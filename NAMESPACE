@@ -1,0 +1,9 @@
+export(
+Rbin_example,
+RbinRead_aCGH,
+RbinConvert_aCGH,
+RbinRead_exome,
+RbinConvert_exome
+)
+
+
